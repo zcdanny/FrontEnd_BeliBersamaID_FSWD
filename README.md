@@ -8,7 +8,7 @@ Jalankan perintah npm install
 
 Jalankan perintah npm run dev
 
-Buka browser dan akses `http://localhost:5173
+Buka browser dan akses `http://localhost:5174
 
 Untuk menambahkan pekerjaan kalian bikin dulu brach baru dengan nama kalian/nama fitur
 

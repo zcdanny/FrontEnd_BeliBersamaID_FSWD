@@ -1,0 +1,47 @@
+#logoAndHeading {
+    display: flex;
+    margin-left: 15px;
+}
+
+.navItem {
+    padding: 8px 12px;
+    margin: 0 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.navItem:hover {
+    background-color: #86BBD8;
+    color: black;
+}
+
+.selectedNavItem {
+    padding: 8px 12px;
+    margin: 0 10px;
+    border-radius: 10px;
+    color: black;
+    background-color: #86BBD8;
+}
+
+.cartIcon {
+    color: white;
+    margin: 0 25px 0 5px;
+}
+
+.cartIcon:hover {
+    cursor: pointer;
+    color: #86BBD8;
+}
+
+.badge:after{
+    content:attr(value);
+    font-family: sans-serif;
+    font-size:14px;
+    background: red;
+    border-radius:50%;
+    padding:3px;
+    position:relative;
+    left:-6px;
+    top:-15px;
+    padding: 3px 6px;
+}

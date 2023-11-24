@@ -12,7 +12,7 @@ const LandingPage = () => {
         <img
           id="heroImage"
           alt="hero image"
-          src={`${UrlBasepath}/assets/homepage/landingPageBackground.jpg`}
+          src={`../assets/homepage/landing1.jpg`}
         />
         <Heading>Welcome to BeliBersamaID  </Heading>
         <Text margin="40px 0" fontSize="2xl">

@@ -36,7 +36,7 @@ const NavBar = ({ user }) => {
         <div id="logoAndHeading">
           <img
             width="70px"
-            src={`${UrlBasepath}/assets/logo/corgi_logo2.png`}
+            src={`./assets/logo/logo.png`}
           />
           <Heading textAlign="left" padding="12px 0 0 10px" color="white">
             BeliBersamaID
